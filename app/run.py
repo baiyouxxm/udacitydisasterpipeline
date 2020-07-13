@@ -72,7 +72,7 @@ def index():
             'data': [
                 Scatter(
                     x=category_names,
-                    y=category_counts
+                    y=category_count
                 )
             ],
 
